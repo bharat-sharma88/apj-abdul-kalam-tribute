@@ -1,0 +1,39 @@
+@media(max-width:768px) {
+    .container {
+        background: linear-gradient(180deg, #71acfb, #E2E8F0 10%);
+    }
+
+    .container .hero {
+        padding: 5rem 2rem 2rem;
+    }
+
+    .about {
+        padding: 2rem;
+    }
+
+    .about-image img {
+        display: none;
+    }
+
+    .about-text p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .achieve {
+        padding: 2rem;
+    }
+
+    .line-style {
+        padding: 2rem 2rem 0;
+    }
+
+    .quote {
+        padding: 0 2rem 0 2rem;
+        font-size: 1.2em;
+    }
+
+    .tribute p {
+        padding: 0.5rem;
+    }
+}
